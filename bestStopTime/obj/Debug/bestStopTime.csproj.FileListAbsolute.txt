@@ -1,0 +1,9 @@
+C:\Users\gend\Desktop\bestStopTime\bin\Debug\bestStopTime.exe.config
+C:\Users\gend\Desktop\bestStopTime\bin\Debug\bestStopTime.exe
+C:\Users\gend\Desktop\bestStopTime\bin\Debug\bestStopTime.pdb
+C:\Users\gend\Desktop\bestStopTime\obj\Debug\bestStopTime.csprojResolveAssemblyReference.cache
+C:\Users\gend\Desktop\bestStopTime\obj\Debug\bestStopTime.Form1.resources
+C:\Users\gend\Desktop\bestStopTime\obj\Debug\bestStopTime.Properties.Resources.resources
+C:\Users\gend\Desktop\bestStopTime\obj\Debug\bestStopTime.csproj.GenerateResource.Cache
+C:\Users\gend\Desktop\bestStopTime\obj\Debug\bestStopTime.exe
+C:\Users\gend\Desktop\bestStopTime\obj\Debug\bestStopTime.pdb
