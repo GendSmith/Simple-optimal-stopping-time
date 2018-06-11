@@ -18,6 +18,8 @@ namespace bestStopTime
         static double g = 0;//玩一局的成本
         static double p = 0;//折现率
         static int count = 0;//玩了多少局
+
+
         public Form1()
         {
             InitializeComponent();
@@ -62,7 +64,7 @@ namespace bestStopTime
             }
             g = double.Parse(textBox2.Text.ToString());
             p = double.Parse(textBox1.Text.ToString());
-            if (g < 0 || g > 1100)
+            if (g < 0 || g >= 1100)
             {
                 MessageBox.Show("每一局的成本要在[0,1100)这个区间内！");
                 return;

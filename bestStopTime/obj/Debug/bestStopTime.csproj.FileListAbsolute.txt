@@ -7,3 +7,12 @@ C:\Users\gend\Desktop\bestStopTime\obj\Debug\bestStopTime.Properties.Resources.r
 C:\Users\gend\Desktop\bestStopTime\obj\Debug\bestStopTime.csproj.GenerateResource.Cache
 C:\Users\gend\Desktop\bestStopTime\obj\Debug\bestStopTime.exe
 C:\Users\gend\Desktop\bestStopTime\obj\Debug\bestStopTime.pdb
+F:\project\Simple-optimal-stopping-time\bestStopTime\bin\Debug\bestStopTime.exe.config
+F:\project\Simple-optimal-stopping-time\bestStopTime\obj\Debug\bestStopTime.exe
+F:\project\Simple-optimal-stopping-time\bestStopTime\obj\Debug\bestStopTime.pdb
+F:\project\Simple-optimal-stopping-time\bestStopTime\bin\Debug\bestStopTime.exe
+F:\project\Simple-optimal-stopping-time\bestStopTime\bin\Debug\bestStopTime.pdb
+F:\project\Simple-optimal-stopping-time\bestStopTime\obj\Debug\bestStopTime.csprojResolveAssemblyReference.cache
+F:\project\Simple-optimal-stopping-time\bestStopTime\obj\Debug\bestStopTime.Form1.resources
+F:\project\Simple-optimal-stopping-time\bestStopTime\obj\Debug\bestStopTime.Properties.Resources.resources
+F:\project\Simple-optimal-stopping-time\bestStopTime\obj\Debug\bestStopTime.csproj.GenerateResource.Cache
