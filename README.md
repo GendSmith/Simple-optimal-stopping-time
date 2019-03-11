@@ -12,3 +12,6 @@
 `.\Simple-optimal-stopping-time\bestStopTime\bin\Debug\bestStopTime.exe`
 
 注意要开启Windows的.net环境，否则无法执行
+
+
+
